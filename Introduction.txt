@@ -1,0 +1,21 @@
+INTRODUCTION
+About Me
+***************************************************************************************************
+I was raised in the Chicagoland suburbs, but now live in rural Wisconsin. My first degree is in
+ English Education and I work at a small college's admissions department as an assistant director.
+ I decided to pursue a career in software development after helping implement a new CRM for my
+ office two summers ago because I really enjoyed the new technical side of my job and saw what a
+ positive impact quality applications can have on a work environment. In my free time, I enjoy
+ reading. I just finished Stephen King’s Pet Sematary and am now starting Paulo Coehlo’s The
+ Alchemist. Along with reading, I spend a lot of time playing the drum set – mostly jazz and Latin
+ music. I also play video games from time to time, usually card games like Gwent and Star Realms.
+
+Programming Experience
+***************************************************************************************************
+I learned C++ during OSU’s 161 and 162, using VIM for 161 and Visual Studio in 162. The next
+ language I’m most familiar with is JavaScript, which I learned some of in FullStack Academy’s
+ Bootcamp Prep Course last June and practiced regularly on codewars.com through November. I also
+ completed Codecademy’s Learn Python class that Fall, but feel like I didn’t retain much. For
+ JavaScript, I used CodePen as an IDE, while I never wrote Python outside of the Codecademy
+ tutorials. The only other programming-related classes I’ve taken were a Visual Basic course in
+ high school and a website building class in middle school, neither of which I remember well.
