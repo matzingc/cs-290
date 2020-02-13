@@ -10,6 +10,9 @@ I was raised in the Chicagoland suburbs, but now live in rural Wisconsin. My fir
  Alchemist. Along with reading, I spend a lot of time playing the drum set – mostly jazz and Latin
  music. I also play video games from time to time, usually card games like Gwent and Star Realms.
 
+sdfsdfsdfsdf
+
+
 Programming Experience
 ***************************************************************************************************
 I learned C++ during OSU’s 161 and 162, using VIM for 161 and Visual Studio in 162. The next
